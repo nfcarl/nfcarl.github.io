@@ -3330,7 +3330,7 @@ input, select, textarea {
 
 		#page-wrapper:before {
 			background: rgba(0, 0, 0, 0);
-			content: '';
+			content: 'erira.jpg';
 			display: block;
 			display: none;
 			height: 100%;
