@@ -2789,6 +2789,7 @@ input, select, textarea {
 
 	.wrapper {
 		padding: 6em 0 4em 0 ;
+		list-style-type: none;
 	}
 
 		.wrapper > .inner {
@@ -3079,6 +3080,7 @@ input, select, textarea {
 
 			.wrapper.style3 ul.alt li {
 				border-color: rgba(0, 0, 0, 0.125);
+				list-style-type: none;
 			}
 
 			.wrapper.style3 table tbody tr {
@@ -3917,6 +3919,7 @@ input, select, textarea {
 				line-height: 1em;
 				margin-left: 1em;
 				padding-left: 1em;
+				list-style: none;
 			}
 
 				#footer .copyright li:first-child {
